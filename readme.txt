@@ -1,4 +1,4 @@
 Welcome to my project!
 
-Author: Elçin
+Author: İrem Elçin
 Twitter: @theaesthetee
